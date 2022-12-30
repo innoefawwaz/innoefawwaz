@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hello there everyone, welcome to my personal GitHub Repository <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30">. My full name is Muhammad Fawwaz Dynoeputra Isnandar, but people call me Innoe :smiley:.
+Hello there everyone, welcome to my personal GitHub Repository  <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30"> . My full name is Muhammad Fawwaz Dynoeputra Isnandar, but people call me Innoe :smiley:.
 - :rocket: Currently engaged in Data Science scopes, such as Data Analytics, Data Science and Data Engineering.
 
 - :classical_building: A Computer Engineering graduate from Universitas Brawijaya.
