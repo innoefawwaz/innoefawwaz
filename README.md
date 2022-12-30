@@ -2,6 +2,19 @@
   <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/innoefawwaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:innoe.fawwaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/innoefawwaz/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
+  
+  
 ### Hello there 👋 Welcome to My GitHub Profile :fist:
 
 <div align="center">
@@ -11,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hello there everyone, welcome to my personal GitHub Repository  <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30"> . My full name is Muhammad Fawwaz Dynoeputra Isnandar, but people call me Innoe :smiley:.
+Hello there everyone, welcome to my personal GitHub Repository  <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30"> . My full name is Muhammad Fawwaz Dynoeputra Isnandar, but people call me Innoe :smiley:. Here's a short summary of me :
 - :rocket: Currently engaged in Data Science scopes, such as Data Analytics, Data Science and Data Engineering.
 
 - :classical_building: A Computer Engineering graduate from Universitas Brawijaya.
@@ -26,6 +39,10 @@ Hello there everyone, welcome to my personal GitHub Repository  <img src="https:
 
 ---
 
+### :computer: Languages and Tools :
+
+
+---
 
 <!--
 **innoefawwaz/innoefawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
