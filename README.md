@@ -88,7 +88,7 @@ Other Tools :
 
 ### :pushpin: Projects : 
 
-In the present cirumstances all projects within my repositories are Data Science related ranging from **Data Analyzing** to implementing **Deep Learning Neural Networks Modelling**. Here also lies the projects and works from the previous Data Science Bootcamp at Hacktiv8. Here are the repo's that you want to look at :
+In the present cirumstances all projects within my repositories are Data Science related ranging from **Data Analysis** to implementing **Deep Learning Neural Networks Modelling**. Here also lies the projects and works from the previous Data Science Bootcamp at Hacktiv8. Here are the repo's that you want to look at :
 - <a href="https://github.com/innoefawwaz/Data-Science-Projects" target="_blank" rel="noopener noreferrer">Data-Science-Projects</a> : In this repository you'll find various of Data Science related projects. Here you can see that i did some things such as Exploratory Data Analysis, used a supervised & unsupervised machine learning by using regression and classification, aswell as implementing deep learning on classification and Natural Language Processing tasks.
 
 ---
