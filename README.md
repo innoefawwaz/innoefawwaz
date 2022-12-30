@@ -5,19 +5,17 @@
     <a href="https://www.linkedin.com/in/innoefawwaz/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="mailto:innoe.fawwaz@gmail.com">
+    <a href="mailto:innoe.fawwaz@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/innoefawwaz/">
+    <a href="https://www.facebook.com/innoefawwaz/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
   </div>
+  <h1>
+    Hello there 👋 Welcome to My GitHub Profile :fist:
+  </h1>
 </div>
-
-
-  
-  
-### Hello there 👋 Welcome to My GitHub Profile :fist:
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
@@ -26,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-Hello there everyone, welcome to my personal GitHub Repository  <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30"> . My full name is Muhammad Fawwaz Dynoeputra Isnandar, but people call me Innoe :smiley:. Here's a short summary of me :
+Hello there everyone, welcome to my personal GitHub Repository  <img src="https://media.giphy.com/media/1bRmbAbXAQbCiTntJO/giphy.gif" width="30"> . My full name is **Muhammad Fawwaz Dynoeputra Isnandar**, but people call me **Innoe** :smiley:. Here's a short summary of me :
 - :rocket: Currently engaged in Data Science scopes, such as Data Analytics, Data Science and Data Engineering.
 
 - :classical_building: A Computer Engineering graduate from Universitas Brawijaya.
@@ -42,6 +40,10 @@ Hello there everyone, welcome to my personal GitHub Repository  <img src="https:
 ---
 
 ### :computer: Languages and Tools :
+As mentioned before, in college i have several skills regarding the programming language used in Embedded System in computer engineering as well as Data Science programming languages that i learned myself and from Hacktiv8 Bootcamp such as :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 
 
 ---
