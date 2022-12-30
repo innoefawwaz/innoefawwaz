@@ -1,18 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="200"/>
+ 
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/innoefawwaz/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="mailto:innoe.fawwaz@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/innoefawwaz/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+  </div>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/innoefawwaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:innoe.fawwaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/innoefawwaz/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</div>
+
   
   
 ### Hello there 👋 Welcome to My GitHub Profile :fist:
