@@ -41,7 +41,7 @@ Hello there everyone, welcome to my personal GitHub Repository  <img src="https:
 ---
 
 ### :computer: Programming Languages and Tools :
-As mentioned before, in college i have several skills regarding the programming language particulary used in Embedded System in computer engineering as well as Data Science programming languages that i learned myself and from Hacktiv8 Bootcamp such as :
+As mentioned before, in college i have several skills regarding the programming language particulary used in Embedded System in computer engineering as well as Data Science oriented programming languages that i learned myself and from the Hacktiv8 Full Time Data Science Bootcamp such as :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title"Python" alt="Python" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
