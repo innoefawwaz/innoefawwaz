@@ -97,7 +97,7 @@ In the present cirumstances all projects within my repositories are Data Science
 
 ## Closing Statement
 
-As the mighty **Benjamin Franklin** said : *"Without Continual growth and progress, such words as improvement, achievement, and success have no meaning."* I am eager to keep growing as a Data Scientist and person, hopefully making impact on the surroundings in the journey of our success. Thank you for stopping by, and **never keep stop learning!**
+As the mighty **Benjamin Franklin** said : *"Without Continual growth and progress, such words as improvement, achievement, and success have no meaning."* I am eager to keep growing as a Data Scientist and person, hopefully making impact on the surroundings in the journey of my success. Thank you for stopping by, and **never keep stop learning!**
 
 ---
 <!--
